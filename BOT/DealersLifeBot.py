@@ -1,5 +1,5 @@
 import pyautogui as autoGui
-from inputManager import InputManager
+from GUI.inputManager import InputManager
 import random, time
 
 
