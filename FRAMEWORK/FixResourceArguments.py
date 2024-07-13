@@ -1,6 +1,6 @@
 import os, re
 
-from GUI.IO_Helper import IO_Helper
+from  GUI.IO_Helper import IO_Helper
 
 
 class FixResourceArgumentsOnProject:
